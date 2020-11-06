@@ -17,9 +17,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinathjoshi)](https://github.com/shrinathjoshi/shrinathjoshi)
 
 
+<a href="https://github.com/shrinathjoshi/Algorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Algorithms" />
+</a>
+<a href="https://github.com/shrinathjoshi/Data-Structure">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Data-Structure" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinathjoshi)](https://github.com/shrinathjoshi/shrinathjoshi)
 
+<a href="https://github.com/shrinathjoshi/Algorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Algorithms" />
+</a>
+<a href="https://github.com/shrinathjoshi/Data-Structure">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Data-Structure" />
+</a>
 
 
 <a href="https://github.com/shrinathjoshi/Algorithms">
