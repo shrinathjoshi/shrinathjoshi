@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Shrinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrinathjoshi&show_icons=true&&count_private=true&title_color=000&icon_color=586069&theme=monokai&text_color=586069&bg_color=fff&line_height=30&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Shrinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrinathjoshi&show_icons=true&&count_private=true&title_color=000&icon_color=586069&theme=radical&text_color=586069&bg_color=fff&line_height=30&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinathjoshi)](https://github.com/anuraghazra/github-readme-stats)
