@@ -20,12 +20,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinathjoshi)](https://github.com/shrinathjoshi/shrinathjoshi)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Algorithms)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/shrinathjoshi/Algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Algorithms" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/shrinathjoshi/Data-Structure">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Data-Structure" />
 </a>
