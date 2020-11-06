@@ -25,17 +25,17 @@
 </a>
 
 
-<a href="https://github.com/shrinathjoshi/Algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Algorithms" />
+<a href="https://github.com/shrinathjoshi/Leetcode-30-day-challenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Leetcode-30-day-challenge" />
 </a>
-<a href="https://github.com/shrinathjoshi/Data-Structure">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Data-Structure" />
+<a href="https://github.com/shrinathjoshi/Amazon-SDE-Test-Series">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Amazon-SDE-Test-Series" />
 </a>
 
 
-<a href="https://github.com/shrinathjoshi/Algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Algorithms" />
+<a href="https://github.com/shrinathjoshi/Technical-Interview">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Technical-Interview" />
 </a>
-<a href="https://github.com/shrinathjoshi/Data-Structure">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Data-Structure" />
+<a href="https://github.com/shrinathjoshi/SDE-Problems">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=SDE-Problems" />
 </a>
