@@ -1,7 +1,12 @@
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ImShriJoshi)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shrinathjoshi/)
+
+
 ### Hi there 👋
 
-- 🔭 I’m currently working on Technical Interview and Software Development
-- 🌱 I’m currently learning  Data Structure, Algorithms , System Design,etc
+- 🔭 I’m currently working as a Software Engineer building large scale distributed systems 
+- 🌱 I have experience working in Backend Engineering, Microservice Architecture, Distributed Systems, building scalable REST APIs and lot more.  currently 
+-    learning Data Structure, Algorithms , System Design,etc
 - 👯 I’m looking to collaborate on intersenting software development projects and Open Source Contributions  
 - 🤔 I’m looking for help with Low Level Design, System Design and Mock Interviews
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shrinathjoshi/) , [Instagram](https://www.instagram.com/shrinathjoshi97/), [Twitter](https://twitter.com/ImShriJoshi), [Facebook](https://www.facebook.com/Shrinathjoshi97)
