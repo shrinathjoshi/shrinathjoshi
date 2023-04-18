@@ -17,12 +17,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrinathjoshi&show_icons=true&include_all_commits=true&theme=radical" alt="Shrinath's github stats" />
 </a>
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinathjoshi)](https://github.com/shrinathjoshi/shrinathjoshi)
 
 #### Pinned
-
 
 <a href="https://github.com/shrinathjoshi/Algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=Algorithms" />
@@ -46,8 +43,6 @@
 <a href="https://github.com/shrinathjoshi/SDE-Problems">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrinathjoshi&repo=SDE-Problems" />
 </a>
-
-
 
 ## 💼 Skills
 
